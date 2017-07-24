@@ -1,0 +1,15 @@
+datasource.slave.host=${datasource.slave.host}
+datasource.slave.port=${datasource.slave.port}
+datasource.slave.db=${datasource.slave.db}
+datasource.slave.username=${datasource.slave.username}
+datasource.slave.password=${datasource.slave.password}
+datasource.slave.maxconn=${datasource.slave.maxconn}
+datasource.slave.minconn=${datasource.slave.minconn}
+
+datasource.master.host=${datasource.master.host}
+datasource.master.port=${datasource.master.port}
+datasource.master.db=${datasource.master.db}
+datasource.master.username=${datasource.master.username}
+datasource.master.password=${datasource.master.password}
+datasource.master.maxconn=${datasource.master.maxconn}
+datasource.master.minconn=${datasource.master.minconn}

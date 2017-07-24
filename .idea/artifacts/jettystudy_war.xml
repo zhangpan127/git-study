@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jettystudy:war">
+    <output-path>$PROJECT_DIR$/jettystudy/target</output-path>
+    <root id="archive" name="jettystudy.war">
+      <element id="artifact" artifact-name="jettystudy:war exploded" />
+    </root>
+  </artifact>
+</component>
