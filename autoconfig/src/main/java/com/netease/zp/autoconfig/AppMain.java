@@ -10,11 +10,6 @@ import java.util.ResourceBundle;
  */
 public class AppMain {
     public static void main(String[] args){
-        ResourceBundle resourceBundle = ResourceBundle.getBundle("conf/property/netease");
-        String entry = resourceBundle.getString("netease.entry");
-        String position = resourceBundle.getString("netease.position");
-        String environment = resourceBundle.getString("current.environment");
 
-        System.out.println(entry + ":" + position + "->" + environment);
     }
 }
