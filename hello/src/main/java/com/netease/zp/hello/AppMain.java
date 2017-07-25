@@ -9,5 +9,6 @@ package com.netease.zp.hello;
 public class AppMain {
     public static void main(String[] args){
         System.out.println("Hell git");
+        System.out.println("Hell git branch");
     }
 }
