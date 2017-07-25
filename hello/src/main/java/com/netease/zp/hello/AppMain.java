@@ -8,7 +8,8 @@ package com.netease.zp.hello;
  */
 public class AppMain {
     public static void main(String[] args){
-        System.out.println("Hell git");
-        System.out.println("Hell git branch");
+        System.out.println("Hello git");
+        System.out.println("Hello git branch");
+        System.out.println("Hello git next branch 1X");
     }
 }
